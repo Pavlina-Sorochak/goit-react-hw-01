@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "prop-types": "^15.8.1"
+  },
+  "dependencies": {
+    "clsx": "^2.1.0",
+    "modern-normalize": "^2.0.0",
+    "react-icons": "^5.0.1"
+  }
+}
